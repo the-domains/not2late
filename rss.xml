@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Not2Late]]></title>
+        <description><![CDATA[Not2Late]]></description>
+        <link>https://thegrid.ai/not2late/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 27 Nov 2015 15:07:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/not2late/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://collection.boblucore.com/images/headers/library_banner_700x180.jpg">]]></description>
+            <link>http://collection.boblucore.com/</link>
+            <guid isPermaLink="false">60dc13dc-3d15-4c3e-97e9-6d64456ca1ea</guid>
+            <pubDate>Fri, 27 Nov 2015 15:06:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://collection.boblucore.com/images/headers/library_banner_700x180.jpg">]]></description>
+            <link>https://thegrid.ai/not2late/640edd6d-26ee-46a8-b8dc-8637d57aeb32/index.html</link>
+            <guid isPermaLink="false">640edd6d-26ee-46a8-b8dc-8637d57aeb32</guid>
+            <pubDate>Fri, 27 Nov 2015 15:06:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <description><![CDATA[<article><h1>Welcome</h1><p>Welcome to my humble little site, where I plan to share  my sdventures as a 60+ year old recovering economist, who recently completed his MLIS degree, and is attempting to find his way in the world of web technology.</p></article>]]></description>
+            <link>https://thegrid.ai/not2late/welcome/index.html</link>
+            <guid isPermaLink="false">38309ccf-955e-4842-8ae4-ece00d04f3d6</guid>
+            <pubDate>Fri, 27 Nov 2015 14:36:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
