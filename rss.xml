@@ -4,7 +4,7 @@
         <description><![CDATA[Not2Late]]></description>
         <link>https://thegrid.ai/not2late/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 Nov 2015 15:07:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 10:32:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/not2late/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/not2late/640edd6d-26ee-46a8-b8dc-8637d57aeb32/index.html</link>
             <guid isPermaLink="false">640edd6d-26ee-46a8-b8dc-8637d57aeb32</guid>
             <pubDate>Fri, 27 Nov 2015 15:06:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome]]></title>
-            <description><![CDATA[<article><h1>Welcome</h1><p>Welcome to my humble little site, where I plan to share  my sdventures as a 60+ year old recovering economist, who recently completed his MLIS degree, and is attempting to find his way in the world of web technology.</p></article>]]></description>
-            <link>https://thegrid.ai/not2late/welcome/index.html</link>
-            <guid isPermaLink="false">38309ccf-955e-4842-8ae4-ece00d04f3d6</guid>
-            <pubDate>Fri, 27 Nov 2015 14:36:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
